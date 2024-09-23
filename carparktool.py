@@ -2,10 +2,10 @@ import requests
 # import json
 from time import sleep
 
-# Copyright (C) Anasov <me@anasov.ly> - All Rights Reserved
+# Copyright (C) Aizal <Telegram<@ItzAizal> - All Rights Reserved
 # Unauthorized copying of this file, via any medium is strictly prohibited
 # Proprietary and confidential
-# Written by Anasov <me@anasov.ly>, 05, May, 2024.
+# Written by Aizal <Telegram@ItzAizal>, 11, September, 2023.
 
 BASE_URL: str = "https://maroon-echidna-796942.hostingersite.com/api"
 
