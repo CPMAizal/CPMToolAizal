@@ -11,7 +11,7 @@ from rich.text import Text
 from rich.style import Style
 from carparktool import CarParkTool
 
-__CHANNEL_USERNAME__ = "CP_BombilO"
+__CHANNEL_USERNAME__ = "CP_Bombil"
 __GROUP_USERNAME__   = "CP_BombilO_chat"
 
 def signal_handler(sig, frame):
