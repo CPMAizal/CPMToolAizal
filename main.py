@@ -37,9 +37,9 @@ def gradient_text(text, colors):
 
 def banner(console):
     os.system('cls' if os.name == 'nt' else 'clear')
-    brand_name = figlet_format('SOPHIA', font='bloody')
+    brand_name = figlet_format('EWAN KURDISH', font='bloody')
     colors = [
-        "rgb(255,0,0)",
+        rgb(24, 252, 157)
     ]
     colorful_text = gradient_text(brand_name, colors)
     console.print(colorful_text, end=None)
