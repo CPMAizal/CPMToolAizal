@@ -39,7 +39,7 @@ def banner(console):
     os.system('cls' if os.name == 'nt' else 'clear')
     brand_name = figlet_format('EWAN KURDISH', font='bloody')
     colors = [
-        rgb(24, 252, 157)
+       "rgb(24,252,157)",
     ]
     colorful_text = gradient_text(brand_name, colors)
     console.print(colorful_text, end=None)
